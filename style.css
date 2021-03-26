@@ -33,6 +33,7 @@ main {
 section {  
   width: 300px;
   height: auto;
+  position: relative;
 }
 
 article {
