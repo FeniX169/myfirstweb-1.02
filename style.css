@@ -1,0 +1,38 @@
+body {
+  font-family: Georgia;
+  color: white;
+  background-color: black;
+}
+
+header {
+  background-color: #F1C40F;
+}
+
+#hnav {
+  background-color: #E67E22;
+  border: 2px dotted black;
+}
+
+main {
+  background-color: #E67E22;
+}
+
+article {
+  background-color: #F1C40F;
+  border: 2px dotted black;
+}
+
+aside {
+  background-color: black;
+  border: 2px dotted black;
+}
+
+footer {
+  background-color: #F1C40F;
+  border: 2px dotted black;
+}
+
+h1, h2, h3 {
+  font-family: cursive;
+  text-transform: capitalize;
+}
