@@ -33,6 +33,7 @@ main {
 article {
   background-color: #F1C40F;
   border: 2px dotted black;
+  width: 300px;
 }
 
 aside {
