@@ -20,6 +20,12 @@ header {
   border: 2px dotted black;
 }
 
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
 main {
   background-color: #E67E22;
 }
