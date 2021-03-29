@@ -21,14 +21,17 @@ header {
   border: 2px dotted black;
   position: fixed;  
   width: 100%;
-  z-index: 10;
-  display: inline-block;
+  z-index: 10;  
 }
 
 ul {
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
+}
+
+li {
+  display: inline-block;
 }
 
 main {
