@@ -24,7 +24,7 @@ header {
   z-index: 10;  
 }
 
-#hnav .li {
+#hnav li {
   display: inline-block;
 }
 
