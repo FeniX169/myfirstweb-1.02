@@ -48,6 +48,12 @@ aside {
   border: 2px dotted black;
 }
 
+#hnav2 {
+  position: fixed;  
+  width: 100%;
+  top: 726px;
+}
+
 footer {
   background-color: #F1C40F;
   border: 2px dotted black;
