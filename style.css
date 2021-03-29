@@ -37,6 +37,8 @@ ul {
 main {
   background-color: #E67E22;
   top: 120px;
+  width: 300px;
+  position: absolute;
 }
 
 section {  
