@@ -47,6 +47,7 @@ main {
 section {  
   width: 580px;
   height: 300px;
+  margin: 0 auto;
 }
 
 article {
