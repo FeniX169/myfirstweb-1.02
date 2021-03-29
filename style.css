@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #F1C40F;
-  position: relative;
+  position: absolute;
 }
 
 #hnav {
@@ -21,7 +21,7 @@ header {
   border: 2px dotted black;
   position: fixed;  
   width: 100%;
-  z-index: 1;
+  z-index: 10;
 }
 
 ul {
@@ -54,6 +54,7 @@ aside {
 footer {
   background-color: #F1C40F;
   border: 2px dotted black;
+  position: absolute;
 }
 
 h1, h2, h3 {
