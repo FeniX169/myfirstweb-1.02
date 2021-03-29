@@ -13,12 +13,13 @@ body {
 
 header {
   background-color: #F1C40F;
-  position: fixed;
+  position: relative;
 }
 
 #hnav {
   background-color: #E67E22;
   border: 2px dotted black;
+  position: fixed;
 }
 
 ul {
