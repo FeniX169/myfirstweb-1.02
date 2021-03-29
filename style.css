@@ -42,6 +42,7 @@ header {
 main {
   background-color: #E67E22;
   width: 300px;
+  display: inline-block;
 }
 
 section {  
