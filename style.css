@@ -40,7 +40,8 @@ header {
 main {
   background-color: #E67E22;
   width: 300px;
-  display: inline-block;
+  margin: 0 auto;
+  display: inline-block;  
 }
 
 section {  
