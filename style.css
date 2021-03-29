@@ -17,6 +17,7 @@ header {
 
 #hnav {
   background-color: #E67E22;
+  opacity: 0.5;
   border: 2px dotted black;
   position: fixed;  
   width: 100%;
