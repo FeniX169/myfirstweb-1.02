@@ -9,6 +9,7 @@ body {
   font-family: Georgia;
   color: white;
   background-color: black;
+  position: relative;
 }
 
 header {
@@ -41,7 +42,6 @@ header {
 main {
   background-color: #E67E22;
   width: 300px;
-  position: absolute;
 }
 
 section {  
