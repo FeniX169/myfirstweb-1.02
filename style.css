@@ -13,6 +13,10 @@ body {
 
 header {
   background-color: #F1C40F;
+  position: relative;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
 }
 
 #hnav {
