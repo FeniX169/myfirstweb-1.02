@@ -46,7 +46,7 @@ main {
 
 section {  
   width: 300px;
-  height: auto;
+  height: 300px;
 }
 
 article {
@@ -62,7 +62,6 @@ aside {
 footer {
   background-color: #F1C40F;
   border: 2px dotted black;
-  position: relative;
   width: 100%;
 }
 
