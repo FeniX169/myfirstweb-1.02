@@ -62,6 +62,8 @@ aside {
 footer {
   background-color: #F1C40F;
   border: 2px dotted black;
+  position: relative;
+  width: 100%;
 }
 
 h1, h2, h3 {
