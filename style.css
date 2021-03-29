@@ -21,6 +21,7 @@ header {
   border: 2px dotted black;
   position: fixed;  
   width: 100%;
+  z-index: 1;
 }
 
 ul {
