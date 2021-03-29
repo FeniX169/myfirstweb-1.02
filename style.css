@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  position: relative;
 }
 
 
@@ -13,7 +14,6 @@ body {
 
 header {
   background-color: #F1C40F;
-  position: absolute;
 }
 
 #hnav {
@@ -32,7 +32,6 @@ ul {
 
 main {
   background-color: #E67E22;
-  position: absolute;
   top: 120px;
 }
 
@@ -54,7 +53,6 @@ aside {
 footer {
   background-color: #F1C40F;
   border: 2px dotted black;
-  position: absolute;
 }
 
 h1, h2, h3 {
